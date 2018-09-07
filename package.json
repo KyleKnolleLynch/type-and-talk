@@ -8,11 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kyle Lynch",
-  "homepage": "https://github.com/KyleKnolleLynch/type-and-talk#readme",
+  "homepage": "https://kyleknollelynch.github.io/type-and-talk",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/KyleKnolleLynch/type-and-talk/issues"
-  },
+  
   "dependencies": {
     "gh-pages": "^1.2.0"
   }
