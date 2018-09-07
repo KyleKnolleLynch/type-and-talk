@@ -1,0 +1,19 @@
+{
+  "name": "type_and_talk",
+  "version": "1.0.0",
+  "description": "Speaking app using SpeechSynthesis API",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Lynch",
+  "homepage": "https://github.com/KyleKnolleLynch/type-and-talk#readme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KyleKnolleLynch/type-and-talk/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
